@@ -1,5 +1,5 @@
 ---
-title: "Epiphenomena and my thumb"
+title: "Epiphenomena and My Thumb"
 excerpt_separator: "<!--more-->"
 date: "2022-03-11"
 ---
